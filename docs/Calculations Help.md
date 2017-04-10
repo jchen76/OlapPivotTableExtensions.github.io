@@ -21,7 +21,7 @@ IIf(
 
 * [MDX Function Reference](http://msdn2.microsoft.com/en-us/library/ms145970.aspx)
 * [MDX Function Usage Examples](http://www.mdxpert.com)
-* [VBA functions](http://msdn2.microsoft.com/en-us/library/aa178230(SQL.80).aspx) you can use in MDX expressions.
+* [VBA functions](https://docs.microsoft.com/en-us/sql/mdx/vba-functions-in-mdx-and-dax) you can use in MDX expressions.
 * If Excel 2003 or later is installed on the Analysis Services server, these [Excel functions](http://web.archive.org/web/20090722011824/http://msdn.microsoft.com/en-us/library/aa178231(SQL.80).aspx) can be used in your MDX expressions. Note that is old Analysis Services 2000 documentation but still applies to newer Analysis Services Multidimensional models. However, documentation is not clear on exactly [what version of Excel to install on the server](https://connect.microsoft.com/SQLServer/feedback/details/124864/shouldnt-need-to-separately-install-excel-to-get-excel-functions-in-mdx), so your mileage may vary.
 
 
@@ -89,4 +89,4 @@ That being said, using OLAP PivotTable Extensions to add calculations to a Power
 
 Note the Solve_Order workaround mentioned in the following [discussion](https://olappivottableextend.codeplex.com/discussions/219957). Also note the tips on troubleshooting DAX errors in PowerPivot mentioned in that discussion. Finally, note that the calculations you can add in OLAP PivotTable Extensions are MDX calculations, not DAX calculations.
 
-Unfortunately, PowerPivot for Excel 2013, which comes installed with Excel, but has to be activated under COM Add-ins, has removed the ability add MDX calculations to PivotTables. For more about Excel 2013 and the Excel Data Model, see the [Excel 2013](Excel-2013) page.
+Unfortunately, PowerPivot for Excel 2013, which comes installed with Excel, but has to be activated under COM Add-ins, has removed the ability add MDX calculations to PivotTables. For more about Excel 2013 and the Excel Data Model, see the [Excel 2013](Excel-2013.md) page.
