@@ -4,19 +4,19 @@
 
 Excel 2013 is the first version to support a GUI built by Microsoft for managing MDX calculated measures and members in a PivotTable. After clicking on a PivotTable, these features can be found under the PivotTable Tools... Analyze tab and under the OLAP Tools menu:
 
-![](Excel 2013_Excel2013MDXMenu.png)
+![](Excel%202013_Excel2013MDXMenu.png)
 
 The MDX Calculated Measure dialog looks like:
 
-![](Excel 2013_Excel2013CalculatedMeasure.png)
+![](Excel%202013_Excel2013CalculatedMeasure.png)
 
 The MDX Calculated Member dialog lets you add a calculated dimension member:
 
-![](Excel 2013_Excel2013CalculatedMember.png)
+![](Excel%202013_Excel2013CalculatedMember.png)
 
 Finally, the Manage Calculations dialog looks like:
 
-![](Excel 2013_Excel2013ManageCalculations.png)
+![](Excel%202013_Excel2013ManageCalculations.png)
 
 The Excel Blog also covered this feature [here](http://blogs.office.com/b/microsoft-excel/archive/2012/10/15/calculated-member-and-measures-in-excel-2013.aspx).
 
